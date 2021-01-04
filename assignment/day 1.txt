@@ -1,0 +1,15 @@
+a.) for(i=1;i<=n;i++)
+		for(j=i;j<=n;j++)
+			printf("Hi");
+		
+ans.)
+O(n^2)
+
+		
+		
+		
+b.) for(i=1;i<=n;i*=3)
+		for(j=1;j<=n;j++)
+			printf("Hello");
+		
+ans.)O(nlogn)
